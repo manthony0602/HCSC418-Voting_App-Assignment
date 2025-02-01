@@ -1,3 +1,5 @@
+// Mason Brown, 2.1.25
+// Updated and finished application file
 class ProductList extends React.Component {
   state = {
     products: [],
