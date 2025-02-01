@@ -1,4 +1,4 @@
-// Mason Brown - 2.1.25
+// Mason Brown - 2.1.25 - Assignment #1
 // Updated and finished application file
 class ProductList extends React.Component {
   state = {
