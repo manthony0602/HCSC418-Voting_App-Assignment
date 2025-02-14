@@ -1,5 +1,3 @@
-** Updated README for Assignment 1 **
-
 # Product Voting App
 
 This is a simple React application that allows users to vote for their favorite products. The app displays a list of products, and users can upvote products they like. The products are sorted by the number of votes in descending order.
